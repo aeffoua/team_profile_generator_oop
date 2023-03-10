@@ -84,6 +84,9 @@ module.exports = class InquirerHelper {
 
     .container {
         display: flex;
+        justify-content: center;
+        align-items: center;
+
     }
 
     .card {
